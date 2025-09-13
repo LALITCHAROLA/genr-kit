@@ -1,8 +1,8 @@
 import sys
 import os
 
-# Add the 'models' directory to Python's search path
-sys.path.append(os.path.join(os.path.dirname(__file__), 'models'))
+# Add the 'functions' directory to Python's search path
+sys.path.append(os.path.join(os.path.dirname(__file__), 'functions'))
 
 # from tg import text_generation, TextGenerationMessage
 # from tc import text_classification

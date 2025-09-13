@@ -11,10 +11,6 @@ The open-source playground for generative AI. Rapidly prototype and deploy multi
 
 ## Tools
 
-#### 📷 **Image Captioning**: Create descriptive text from images
-
-This tool uses the `Salesforce/blip-image-captioning-base` model from Hugging Face, which provides high-quality image captions suitable for accessibility and content description purposes.## 🛠️ Tools
-
 Genr-Kit provides a comprehensive suite of tools for common generative AI tasks. Each tool leverages state-of-the-art, publicly available models from the Hugging Face Hub.
 
 ---
@@ -24,8 +20,9 @@ Genr-Kit provides a comprehensive suite of tools for common generative AI tasks.
 #### **Text Classification**
 
 Categorize text into predefined labels like sentiment or topic.
-**Model:** `distilbert-base-uncased-finetuned-sst-2-english`
-A fast and accurate model fine-tuned for sentiment analysis (positive/negative), perfect for real-time applications.
+
+- **Model:** `distilbert-base-uncased-finetuned-sst-2-english`
+  A fast and accurate model fine-tuned for sentiment analysis (positive/negative), perfect for real-time applications.
 
 #### **Text Generation**
 
